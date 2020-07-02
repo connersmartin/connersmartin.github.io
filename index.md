@@ -1,3 +1,7 @@
+<script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script>
+
+<healcode-widget data-type="registrations" data-widget-partner="object" data-widget-id="3294072ee48" data-widget-version="0" ></healcode-widget>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/connersmartin/connersmartin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
