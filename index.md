@@ -9,7 +9,7 @@
 <script type="text/javascript" src="https://www.mindbodyonline.com//js/iframeResizer.min.js"></script>
 <script type="text/javascript" src="https://www.mindbodyonline.com//js/fitmetrix.js"></script>                                  
 
-<iframe src="https://www.fitmetrix.io/webportal/schedule/8c471c8c-4c8a-e611-9459-0e0c69fd6629"></iframe>
+<iframe src="https://www.fitmetrix.io/webportal/schedule/8c471c8c-4c8a-e611-9459-0e0c69fd6629" width="100%" height="1000"></iframe>
 
 <div id="fmUserWidgetContent"></div>
 <script id="fmUserWidget" type="text/javascript">
