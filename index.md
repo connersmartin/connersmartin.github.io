@@ -20,6 +20,6 @@ nodeParent.insertBefore(node, nodeCurrent);
 </script>
 
 
-<iframe src="https://www.fitmetrix.io/webportal/schedule/8c471c8c-4c8a-e611-9459-0e0c69fd6629" width="100%" height="1000"></iframe>
+<iframe src="https://www.fitmetrix.io/memberportal/login/8c471c8c-4c8a-e611-9459-0e0c69fd6629" width="100%" height="1000"></iframe>
 
 <div id="fmUserWidgetContent"></div>
