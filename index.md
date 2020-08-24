@@ -4,21 +4,18 @@
 
 <!--<healcode-widget data-type="registrations" data-widget-partner="object" data-widget-id="3294072ee48" data-widget-version="0" ></healcode-widget>-->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
-<script type="text/javascript" src="https://www.mindbodyonline.com//js/iframeResizer.min.js"></script>
-<script type="text/javascript" src="https://www.mindbodyonline.com//js/fitmetrix.js"></script>     
-<script id="fmUserWidget" type="text/javascript">
-var guid = 'bf46ed97-3f56-e511-9458-0e0c69fd6629';
-var node = document.createElement('script');
-var nodeCurrent = document.getElementById('fmUserWidget');
-var nodeParent = nodeCurrent.parentNode;
-node.type = 'text/javascript';
-node.async = true;
-node.src = 'http://www.fitmetrix.io/js/fmUserWidget.js';
-nodeParent.insertBefore(node, nodeCurrent);
-</script>
 
-<iframe src="https://www.fitmetrix.io/webportal/schedule/8c471c8c-4c8a-e611-9459-0e0c69fd6629" width="100%" height="1000"></iframe>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N38RL4F');</script>
+<!-- End Google Tag Manager -->
 
-<div id="fmUserWidgetContent"></div>
+<a href="https://clients.mindbodyonline.com/classic/ws?studioid=29529&stype=-98">click here bro</a>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N38RL4F"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
