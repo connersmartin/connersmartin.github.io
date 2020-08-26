@@ -15,6 +15,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <a href="https://clients.mindbodyonline.com/classic/ws?studioid=-5676&stype=-98">click here bro</a>
 
+<script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script>
+
+<healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="3252026ee48" data-widget-version="1" ></healcode-widget>
+
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N38RL4F"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
