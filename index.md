@@ -16,6 +16,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="https://clients.mindbodyonline.com/classic/ws?studioid=-5676&stype=-98">click here bro</a>
 
 <script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script>
+<div>
+  <h1>Healcode buy now</h1>
+<healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="40431" data-mb-site-id="-5676" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="10612" />
+  </div>
 
 <healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="3252026ee48" data-widget-version="1" ></healcode-widget>
 
