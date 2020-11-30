@@ -19,9 +19,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div>
   <h1>Healcode buy now</h1>
 <healcode-widget data-version="0.2" data-link-class="healcode-pricing-option-text-link" data-site-id="40431" data-mb-site-id="-5676" data-type="pricing-link" data-inner-html="Buy Now" data-service-id="10612" />
-  </div>
-
-<healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="3252026ee48" data-widget-version="1" ></healcode-widget>
+  </div><healcode-widget data-version="0.2" data-link-class="loginRegister" data-site-id="40431" data-mb-site-id="-5676" data-type="account-link" data-inner-html="Login | Register"  />
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N38RL4F"
