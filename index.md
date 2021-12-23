@@ -7,7 +7,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <script src="https://widgets.mindbodyonline.com/javascripts/healcode.js" type="text/javascript"></script>
 
-<healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="3252026ee48" data-widget-version="1" ></healcode-widget>
+<healcode-widget data-type="prospects" data-widget-partner="object" data-widget-id="3242265ee48" data-widget-version="0" ></healcode-widget>
+
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N38RL4F"
